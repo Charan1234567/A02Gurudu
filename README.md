@@ -6,7 +6,7 @@ This README would normally document whatever steps are necessary to get your app
 
 This repository is for my A02 assignment.
 
-Home page dis[lays the information about me.
+Home page displays the information about me.
 
 In my second page calculation..I calculated pace with taking speed and time as input values.
 
